@@ -8,6 +8,6 @@ class ProductionConfig(BaseConfig):
     pass
 
 configs = {
-    'development':CevelopmentConfig
+    'development':DevelopmentConfig,
     'production' : ProductionConfig
         }
