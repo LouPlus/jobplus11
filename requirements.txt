@@ -1,0 +1,6 @@
+Flask==0.12.2
+Flask-SQLAlchemy==2.2
+mysqlcilient==
+flask-migrate==
+flask-wtf==
+flask-login==
